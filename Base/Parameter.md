@@ -14,3 +14,5 @@ def func3(name, age=21, *args, *, height, weight):
     
 def func4(name, age=21, *args, *, height, weight, **kwargs):
     print(name, age, args, height, weight, kwargs)
+    
+- To be continue！
