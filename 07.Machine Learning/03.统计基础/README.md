@@ -1,6 +1,7 @@
 # 统计导览
 ![统计导览](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1703/170320-1.png)
 >《STATISTICS FOR BUSINESS AND ECONOMICS》12e David R. Anderson etc.
+
 ##（一）描述性统计
 ![描述性统计-图表和图形法](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161221-1.png)
 ![描述性统计-数值法](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161221-2.png)
